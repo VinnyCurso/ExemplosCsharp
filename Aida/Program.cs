@@ -19,7 +19,7 @@ namespace Aida
         {
 
             //Quem ler esse comentario e quiser que eu comente sobre AIDA.
-            //Comenta abaixo o video....
+           
 
             engine = new SpeechRecognitionEngine(new System.Globalization.CultureInfo("pt-BR");
             engine.SetInputToDefaulAudioDevice();
